@@ -19,3 +19,12 @@
     font-style: italic;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.group-section{
+    box-shadow: 10px rgb(255, 125, 125,0.9),;
+    background-color: black;
+    width: 20%;
+    color:#ffff;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding: 40px;
+}
